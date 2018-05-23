@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: lighter;
+    letter-spacing: .18em;
+}
+
+.main {
+    border-left: 1px solid black;
+    border-right: 1px solid black; 
+}
+
+.main h3{
+    margin-left: -0.4em;
+}
+
+.sidebar {
+    text-align: center;
+}
+
+.sidebar ul {
+    text-align: left;
+    font-size: 0.85em;
+}
+article {
+    font-size: 0.85em;
+}
+li {
+    margin-left: -2.5em;
+}
+h5 {
+    font-size: 1.05em;
+}
+p {
+    font-size: 0.95em;
+}
