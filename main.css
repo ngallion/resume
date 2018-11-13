@@ -1,39 +1,41 @@
 body {
-    font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 h1 {
-    font-size: 2em;
-    font-weight: lighter;
-    letter-spacing: .18em;
+  font-size: 2em;
+  font-weight: lighter;
+  letter-spacing: 0.18em;
 }
 
 .main {
-    border-left: 1px solid black;
-    border-right: 1px solid black; 
+  margin-top: -1em;
+  padding-top: -1.2em;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
 }
 
-.main h3{
-    margin-left: -0.4em;
+.main h3 {
+  margin-left: -0.4em;
 }
 
 .sidebar {
-    text-align: center;
+  text-align: center;
 }
 
 .sidebar ul {
-    text-align: left;
-    font-size: 0.85em;
+  text-align: left;
+  font-size: 0.75em;
 }
 article {
-    font-size: 0.85em;
+  font-size: 0.75em;
 }
 li {
-    margin-left: -2.5em;
+  margin-left: -2.5em;
 }
 h5 {
-    font-size: 1.05em;
+  font-size: 0.85em;
 }
 p {
-    font-size: 0.95em;
+  font-size: 0.7em;
 }
